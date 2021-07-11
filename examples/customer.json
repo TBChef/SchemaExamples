@@ -1,5 +1,5 @@
 {
-    "$id": "https://example.com/schemas/customer",
+    "$id": "https://github.com/TBChef/SchemaExamples/blob/main/examples/customer.json",
   
     "type": "object",
     "properties": {

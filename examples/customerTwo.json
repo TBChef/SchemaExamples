@@ -1,5 +1,5 @@
 {
-    "$schema": "https://github.com/TBChef/SchemaExamples/blob/main/examples/customerTwo.json",
+    "$schema": "https://raw.githubusercontent.com/TBChef/SchemaExamples/main/examples/customerTwo.json",
   
     "type": "object",
     "properties": {

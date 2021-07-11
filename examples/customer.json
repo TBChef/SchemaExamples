@@ -1,6 +1,4 @@
 {
-    "$id": "https://github.com/TBChef/SchemaExamples/blob/main/examples/customer.json",
-  
     "type": "object",
     "properties": {
       "first_name": { "type": "string" },

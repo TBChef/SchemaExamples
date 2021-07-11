@@ -1,0 +1,12 @@
+{
+    "$schema": "https://github.com/TBChef/SchemaExamples/blob/main/examples/customerTwo.json",
+  
+    "type": "object",
+    "properties": {
+      "first_name": { "type": "string" },
+      "last_name": { "type": "string" },
+      "shipping_address": { "type": "string" },
+      "billing_address": { "type": "string" }
+    },
+    "required": ["first_name", "last_name", "shipping_address", "billing_address"]
+  }
